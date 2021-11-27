@@ -9,3 +9,8 @@
 А также пример вставки значка сварки
 
 [![Демо](https://i9.ytimg.com/vi/fC8y48OAe4c/mq3.jpg?sqp=CPT3io0G&rs=AOn4CLCoiOS35YPjQgjpgYuY02YT6No0FA)](https://www.youtube.com/watch?v=fC8y48OAe4c)
+
+
+
+
+Разрабатывалось в 2018 году
